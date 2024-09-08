@@ -8,4 +8,4 @@ Este projeto é um site simples que permite buscar informações sobre classes d
 * CSS
 * JavaScript
 
-## Estrutura do Projeto
+## Projeto feito com base nas aulas da imersão Dev-Gemini da Alura.
